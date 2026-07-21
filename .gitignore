@@ -22,3 +22,7 @@ dist/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Ignore generated outputs
+assets/videos/output.mp4
+runs/
