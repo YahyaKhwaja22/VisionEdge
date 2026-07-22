@@ -46,10 +46,9 @@ reader.release()
 
 writer.release()
 
-print("--------------------------------")
+
 
 print("Processing Complete")
 
 print(f"Average FPS : {fps_counter.fps():.2f}")
 
-print("--------------------------------")
